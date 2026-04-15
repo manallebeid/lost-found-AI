@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+google-generativeai
+faiss-cpu
+numpy
+pillow
+python-dotenv
+opencv-python
+insightface
+python-multipart
+langchain
