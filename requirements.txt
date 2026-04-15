@@ -5,7 +5,7 @@ faiss-cpu
 numpy
 pillow
 python-dotenv
-opencv-python
+opencv-python-headless
 insightface
 python-multipart
 langchain
